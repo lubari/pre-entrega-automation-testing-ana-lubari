@@ -88,3 +88,11 @@ o levantando un servidor local HTTP:
 python3 -m http.server 8000
 ```
 *(luego ingresar a `http://localhost:8000/reporte.html` en el navegador)*.
+
+---
+👤 Autor
+Ana Victoria Lubari
+
+📝 Notas
+Este proyecto fue desarrollado como pre-entrega para el curso de Automatización de Testing.
+Todas las pruebas están diseñadas para funcionar con el sitio web SauceDemo en su versión actual.
